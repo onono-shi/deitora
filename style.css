@@ -125,7 +125,7 @@ a {
   margin-top: 10px;
   margin-bottom:30px;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .head {
     display: flex;
     flex-direction: column;
